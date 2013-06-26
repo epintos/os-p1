@@ -1,0 +1,234 @@
+22
+
+Rosario
+Aspirina 100
+Ibuprofeno 50
+
+Cordoba
+Paracetamol 200
+Aspirina 50
+Ibuprofeno 100
+
+BuenosAires
+Paracetamol 100
+Aspirina 100
+Ibuprofeno 100
+
+Parana
+Aspirina 300
+
+Salta
+Aspirina 100
+Ibuprofeno 50
+
+SantaFe
+Paracetamol 200
+Aspirina 50
+Ibuprofeno 100
+
+SantiagoDelEstero
+Paracetamol 100
+Aspirina 100
+Ibuprofeno 100
+
+Tucuman
+Aspirina 100
+Ibuprofeno 50
+
+Jujuy
+Paracetamol 200
+Aspirina 50
+Ibuprofeno 100
+
+RioNegro
+Paracetamol 100
+Aspirina 100
+Ibuprofeno 100
+
+Mendoza
+Aspirina 100
+Ibuprofeno 50
+
+EntreRios
+Paracetamol 200
+Aspirina 50
+Ibuprofeno 100
+
+Misiones
+Paracetamol 100
+Aspirina 100
+Ibuprofeno 100
+
+Corrientes
+Aspirina 100
+Ibuprofeno 50
+
+Brazil
+Paracetamol 200
+Aspirina 50
+Ibuprofeno 100
+
+Catamarca
+Paracetamol 100
+Aspirina 100
+Ibuprofeno 100
+
+Canada
+Aspirina 100
+Ibuprofeno 50
+
+EstadosUnidos
+Paracetamol 200
+Aspirina 50
+Ibuprofeno 100
+
+Grecia
+Paracetamol 100
+Aspirina 100
+Ibuprofeno 100
+
+Espana
+Aspirina 100
+Ibuprofeno 50
+
+Italia
+Paracetamol 200
+Aspirina 50
+Ibuprofeno 100
+
+Suecia
+Paracetamol 100
+Aspirina 100
+Ibuprofeno 100
+
+Rosario Cordoba 7
+Rosario BuenosAires 12
+Rosario Jujuy 20
+Rosario Salta 20
+
+Cordoba BuenosAires 23
+Cordoba Salta 20
+Cordoba Tucuman 30
+Cordoba Jujuy 40
+
+BuenosAires Parana 18
+BuenosAires Tucuman 20
+BuenosAires Jujuy 30
+BuenosAires Cordoba 30
+
+Parana BuenosAires 11
+Parana Cordoba 10
+Parana Tucuman 20
+Parana Jujuy 20
+Parana Rosario 10
+
+Salta Rosario 20
+Salta Tucuman 20
+Salta Mendoza 30
+Salta BuenosAires 20
+
+SantaFe Mendoza 10
+SantaFe SantiagoDelEstero 30
+SantaFe Tucuman 10
+
+SantiagoDelEstero Cordoba 10
+SantiagoDelEstero BuenosAires 10
+SantiagoDelEstero Rosario 10
+
+Tucuman Salta 10
+Tucuman Mendoza 10
+Tucuman Jujuy 20
+Tucuman SantiagoDelEstero 20
+
+Jujuy Salta 20
+Jujuy Rosario 30
+Jujuy BuenosAires 20
+Jujuy Cordoba 30
+
+RioNegro Rosario 20
+RioNegro BuenosAires 20
+RioNegro Mendoza 30
+
+Mendoza Rosario 20
+Mendoza BuenosAires 20
+Mendoza RioNegro 20
+
+EntreRios Rosario 20
+EntreRios BuenosAires 20
+EntreRios SantiagoDelEstero 30
+EntreRios Cordoba 20
+
+Misiones Rosario 20
+Misiones Tucuman 20
+Misiones BuenosAires 20
+Misiones Rosario 20
+
+Corrientes BuenosAires 20
+Corrientes Brazil 20
+Corrientes Catamarca 20
+
+Brazil Catamarca 30
+Brazil Canada 40
+Brazil Espana 30
+Brazil EstadosUnidos 20
+Brazil RioNegro 39
+Brazil Rosario 20
+Brazil BuenosAires 20
+Brazil SantiagoDelEstero 20
+
+Catamarca EstadosUnidos 10
+Catamarca Canada 30
+Catamarca Rosario 20
+Catamarca BuenosAires 20
+Catamarca EntreRios 10
+Catamarca RioNegro 30
+
+Canada Rosario 30
+Canada RioNegro 25
+Canada Jujuy 24
+Canada Salta 21
+Canada Mendoza 20
+Canada BuenosAires 25
+
+EstadosUnidos BuenosAires 20
+EstadosUnidos Salta 30
+EstadosUnidos Rosario 10
+EstadosUnidos Espana 40
+EstadosUnidos RioNegro 20
+EstadosUnidos SantaFe 30
+EstadosUnidos Mendoza 21
+EstadosUnidos Tucuman 15
+
+Grecia Rosario 30
+Grecia Salta 30
+Grecia Tucuman 24
+Grecia Espana 50
+Grecia RioNegro 21
+Grecia EntreRios 20
+
+Espana BuenosAires 20
+Espana Rosario 30
+Espana Salta 21
+Espana SantaFe 20
+Espana RioNegro 31
+Espana Mendoza 40
+Espana Tucuman 31
+Espana Jujuy 50
+
+Italia BuenosAires 20
+Italia Rosario 30
+Italia Salta 21
+Italia SantaFe 20
+Italia RioNegro 31
+Italia Mendoza 40
+Italia Tucuman 31
+Italia Jujuy 50
+
+Suecia BuenosAires 20
+Suecia Rosario 30
+Suecia Salta 21
+Suecia SantaFe 20
+Suecia RioNegro 31
+Suecia Mendoza 40
+Suecia Tucuman 31
+Suecia Jujuy 50

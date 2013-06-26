@@ -1,0 +1,121 @@
+10
+
+Chongqing
+Nolotil 270
+Almax 730
+Enantyum 560
+Orfidal 280
+Trankimazn 410
+Termalgin 250
+Paracetamol 290
+Augmentine 450
+Ventoln 590
+Neobrufen 410
+
+NewYorkCity
+Trankimazn 450
+Orfidal 980
+Almax 110
+Enantyum 50
+Cardyl 170
+Gelocatil 810
+Neobrufen 960
+Augmentine 150
+Ventoln 940
+Termalgin 440
+
+SaintPetersburg
+Efferalgan 650
+Adiro100 930
+Cardyl 830
+Orfidal 710
+Neobrufen 760
+Augmentine 610
+Trankimazn 910
+Termalgin 960
+Ventoln 140
+Nolotil 170
+
+Busan
+Ventoln 370
+Neobrufen 480
+Enantyum 360
+Paracetamol 870
+Adiro100 430
+Dianben 240
+Efferalgan 430
+Augmentine 340
+Gelocatil 790
+Cardyl 930
+
+Bangkok
+Paracetamol 530
+Orfidal 660
+Cardyl 900
+Efferalgan 130
+Neobrufen 340
+Adiro100 50
+Trankimazn 640
+Dianben 660
+Augmentine 450
+Enantyum 110
+
+Alexandria
+Almax 660
+Adiro100 10
+Trankimazn 540
+Paracetamol 510
+Augmentine 190
+Gelocatil 670
+Neobrufen 400
+Nolotil 720
+Termalgin 120
+Efferalgan 250
+
+Lagos
+Enantyum 620
+Neobrufen 790
+Adiro100 180
+Paracetamol 400
+Orfidal 420
+Termalgin 180
+Trankimazn 910
+Dianben 180
+Augmentine 110
+Nolotil 610
+
+Baghdad
+Trankimazn 540
+Almax 190
+Orfidal 740
+Ventoln 290
+Paracetamol 290
+Termalgin 770
+Gelocatil 850
+Augmentine 380
+Dianben 140
+Adiro100 890
+
+Moscow
+Efferalgan 600
+Paracetamol 20
+Cardyl 900
+Trankimazn 740
+Enantyum 40
+Adiro100 320
+Orfidal 310
+Termalgin 510
+Augmentine 760
+Nolotil 510
+
+Hanoi
+Cardyl 200
+Paracetamol 950
+Enantyum 870
+Augmentine 520
+Gelocatil 170
+Dianben 750
+Orfidal 590
+Adiro100 190
+Efferalgan 840
+Ventoln 900

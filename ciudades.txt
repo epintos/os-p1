@@ -1,0 +1,13 @@
+2
+
+Rosario
+Aspirina 100
+Ibuprofeno 50
+
+Cordoba
+Paracetamol 200
+Aspirina 50
+Ibuprofeno 100
+
+Rosario Cordoba 7
+

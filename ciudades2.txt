@@ -1,0 +1,25 @@
+4
+
+Rosario
+Aspirina 100
+Ibuprofeno 50
+
+Cordoba
+Paracetamol 200
+Aspirina 50
+Ibuprofeno 100
+
+BuenosAires
+Paracetamol 100
+Aspirina 100
+Ibuprofeno 100
+
+Parana
+Aspirina 300
+
+Rosario Cordoba 7
+Rosario BuenosAires 12
+
+Cordoba BuenosAires 23
+
+BuenosAires Parana 18

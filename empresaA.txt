@@ -1,0 +1,17 @@
+3
+
+BuenosAires
+Paracetamol 50000
+Aspirina 50000
+Ibuprofeno 20000
+
+BuenosAires
+Paracetamol 20000
+Aspirina 100000
+Ibuprofeno 100000
+
+Rosario
+Paracetamol 100000
+Aspirina 20000
+Ibuprofeno 45000
+

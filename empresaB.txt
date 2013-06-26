@@ -1,0 +1,45 @@
+10
+
+Cordoba
+Paracetamol 1200
+Aspirina 100
+
+Parana
+Ibuprofeno 100
+
+Rosario
+Aspirina 2000
+
+BuenosAires
+Ibuprofeno 500
+Aspirina 40
+
+Tucuman
+ibuprofeno 500
+Aspirina 500
+Paracetamol 500
+
+Espana
+ibuprofeno 500
+Aspirina 500
+Paracetamol 500
+
+Suecia
+ibuprofeno 500
+Aspirina 500
+Paracetamol 500
+
+Brazil
+ibuprofeno 500
+Aspirina 500
+Paracetamol 500
+
+Catamarca
+ibuprofeno 500
+Aspirina 500
+Paracetamol 500
+
+RioNegro
+ibuprofeno 500
+Aspirina 500
+Paracetamol 500
