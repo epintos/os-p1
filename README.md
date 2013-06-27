@@ -12,7 +12,6 @@ First Project for Operating Systems course at ITBA. Year 2011.
 - The executable generated is `simulacion`
 
 - For executing:
-
   ./simulation followed by the map file and companies chosen
 
 - Example:
